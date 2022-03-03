@@ -14,5 +14,3 @@ pkg install pip
 pip install --upgrade pip
 
 pip install requests
-
-pip install colorama
