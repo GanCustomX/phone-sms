@@ -19,4 +19,4 @@ git clone https://github.com/NotRea1/phone-sms.git
 
 cd phone-sms-main
 
-python 
+python mainv2.py
