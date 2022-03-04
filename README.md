@@ -14,3 +14,9 @@ pkg install pip
 pip install --upgrade pip
 
 pip install requests
+
+git clone https://github.com/NotRea1/phone-sms.git
+
+cd phone-sms-main
+
+python 
